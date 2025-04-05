@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Docker
+*.log
+*.db
+*.pid
+
+# OS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Coverage
+coverage/
